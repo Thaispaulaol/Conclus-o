@@ -1,0 +1,13 @@
+h2 {
+    color: orange;
+}
+
+body {
+    BACKGROUND-COLOR: #305050;
+    COLOR: WHITE;
+    font-family: roboto;
+    text-align: center;
+}
+
+header{border-bottom: 1px solid grey;}
+footer{1px solid grey}
